@@ -1,0 +1,2 @@
+streamlit>=1.37
+PyMySQL>=1.1
